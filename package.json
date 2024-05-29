@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://PashkaTurzhanskyi.github.io/goit-js-hw-08",
+  "homepage": "https://melissa066.github.io/goit-js-hw-009",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-009/"
   },
   "repository": {
     "type": "git",
@@ -23,7 +23,7 @@
     "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.7",
-    "simplelightbox": "^2.14.3"
+    "simplelightbox": "^2.12.1"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
